@@ -213,7 +213,7 @@ nvidia-smi
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-lead-assistant.git
+git clone https://github.com/Alen-S-J/ai-lead-assistant.git
 cd ai-lead-assistant
 ```
 
